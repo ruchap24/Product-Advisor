@@ -2,7 +2,7 @@
 ```
 Product-Advisor/
 │
-├── Frontend/                  # React
+├── Frontend/                 
 │   ├── public/
 │   │   ├── index.html
 │   │   └── assets/         
