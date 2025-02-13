@@ -1,5 +1,5 @@
-Folder Structure
-
+## Folder Structure
+```
 Product-Advisor/
 │
 ├── Frontend/                  # React
@@ -48,3 +48,4 @@ Product-Advisor/
 ├── LICENSE
 ├── README.md               
 └── package.json            
+```
